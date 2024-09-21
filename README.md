@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxw.png">
+ <img src="https://github.com/erikdubois/ubuntu-chadwm/blob/main/logo.svg">
   <br />
    ArcoLinux Nemesis
 </h1>
